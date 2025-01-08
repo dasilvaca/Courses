@@ -21,3 +21,4 @@ Well, the first thing I'd like to do is give this something like an structure. T
 - [C For Everyone [Programming Foundamentals]](./C%20for%20everyone%20[Programming%20Fundamentals]/)
 - [C For Everyone [Structured Programming]](./C%20for%20Everyone[Structured%20Programming]/)
 - [Vim](./Vim/)
+- [Google Foundations of Project Management](./Google%20Foundations%20of%20Project%20Management/)
