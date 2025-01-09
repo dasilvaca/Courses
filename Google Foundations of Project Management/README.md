@@ -2,6 +2,9 @@
 
 You can find the resources of this course in many places. I did obtained by [Coursera](https://www.coursera.org/learn/project-management-foundations/) But, you can find the videos fully free on [YouTube](https://www.youtube.com/watch?v=rck3MnC7OXA&list=PLTZYG7bZ1u6puLWxUtqAjZkIB4dB_JFzk) (I discovered it lately, so... I'd like to make the advise first)
 
+![Course Series of Google Project Management Certificate](image.png)
+> This is the first of 6 courses which belong to the [Google Project Management Certificate](https://www.coursera.org/professional-certificates/google-project-management)
+
 # Modules
 
 This course is compound by four modules:
