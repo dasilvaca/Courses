@@ -1,4 +1,5 @@
-## Welcome to Google Project Management Foundations
+# Welcome to Google Project Management Foundations
+## Lesson Summary
 ### Introduction by Emilio
 - **Role**: Program Manager on the Responsible Innovation Team at Google.
 - **Key** Message: Everyday tasks like event planning or managing financial processes develop skills applicable to project management.
@@ -50,3 +51,9 @@ Advanced project scenarios to apply accumulated knowledge and skills.
 - Hands-on learning: Build project plans, timelines, and manage budgets.
 - Career-ready: Share work with Google and other employers upon completion.
 - Insights from Google professionals and interview preparation tips.
+
+## Highlights of Key Concepts
+> - **Project Management Definition**: Organized application of skills and tools to achieve project goals.
+> - **Core Skills**: Action-orientation, organization, diligence, and strategic thinking.
+- **Learning Path**: The program is designed to teach both technical and soft skills crucial for success in project management roles.
+- **Future Opportunities**: Connection with top employers and a chance to showcase practical experience.
