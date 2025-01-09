@@ -28,3 +28,33 @@ Define project management and describe what constitutes a project.
 - Detail and relate project management skills to project management and its value to business.
 - Determine how this program will help prepare you for a career in project management.
 - Explain the Project Management certificate program structure and course functionality.
+
+### Program overview
+#### Six industry-relevant courses
+> Covers:
+> - Fundamentals of project management.
+> - Goals, objectives, and deliverables.
+> - Risk management 
+> - Team dynamics.
+> - Project methodologies like Agile, Scrum, and Waterfall.
+> - Data-driven decision-making.
+
+#### Learning Format
+> Personal anecdotes, quizzes, case studies, and hands-on exercises.
+#### Tools Introduced
+> Kanban boards, Asana, budgeting tools, and timeline creation.
+#### Outcome
+> Build professional work examples and gain access to hiring opportunities with Google and top employers.
+
+### Meet the Instructors
+- **JuAnne (Course 2: Setting the Stage for a Successful Project)** Focus on early project phases and establishing strong foundations.
+- **Rowena (Course 3: Project Planning, Putting It All Together)** Covers milestones, dependencies, scheduling, budgeting, and risk management.
+- **Elita (Course 4: Project Execution: Running a Project)** Focus on communication, managing risks, team dynamics, and progress tracking.
+- **Sue (Course 5: Agile Project Management)** Deep dive into Agile principles, practices, team dynamics, and Sprint/Release processes.
+- **Dan (Course 6: Applying Project Management in the Real World)** Advanced project scenarios to apply accumulated knowledge and skills.
+
+### Program Benefits
+- Flexible pace: Review videos or skip sections as needed.
+- Hands-on learning: Build project plans, timelines, and manage budgets.
+- Career-ready: Share work with Google and other employers upon completion.
+- Insights from Google professionals and interview preparation tips.
