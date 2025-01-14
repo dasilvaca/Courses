@@ -16,3 +16,9 @@ This module provides a comprehensive introduction to project management, focusin
 
 
 # Related sources to dive deeper into concepts
+
+Here are some helpful project management resources available online:
+
+- The **[Project Management Institute (PMI)](https://www.pmi.org/)** is the leading association for those in project, program, or portfolio management professions. Their website provides guides, industry standards, articles, templates, job boards, certifications, and more to help support professionals in these careers.
+
+- The **[Scrum Guide](https://scrumguides.org/index.html)** defines Scrum, a technique used in Agile project management. You’ll learn about this framework later in the program. This guide describes Scrum’s roles, events, artifacts, and the rules that bind them together. You can also find hundreds of free resources to learn more about Scrum at **[Scrum.org Resources](https://www.scrum.org/resources)**.
