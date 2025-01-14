@@ -8,8 +8,15 @@ This module provides a comprehensive introduction to project management, focusin
 
 # Key concepts learned during the module
 
+| Concept| Definition | Learned at|
+| ------- | --------- | --------- |
+| Project Management | Application of knowledge, skills, tools, and techniques to meet project requirements and achieve outcomes | Lesson 2 - Introduction to Course 1 |
+| Project |  A unique, temporary series of tasks aimed at achieving a specific goal. | Lesson 3 - What is Project Management |
+
+
+
 ## Project Management Definition
 
-> **Application of knowledge, skills, tools, and techniques to meet project requirements and achieve outcomes.**
+> ****
 
 # Related sources to dive deeper into concepts
