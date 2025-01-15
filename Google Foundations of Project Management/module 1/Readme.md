@@ -13,7 +13,7 @@ This module provides a comprehensive introduction to project management, focusin
 | Project Management | Application of knowledge, skills, tools, and techniques to meet project requirements and achieve outcomes | Lesson 2 - Introduction to Course 1 |
 | Project |  A unique, temporary series of tasks aimed at achieving a specific goal. | Lesson 3 - What is Project Management |
 | Project Manager | Project managers play a vital role in ensuring projects are completed on time, within budget, and with measurable value to their organizations. | Lesson 4 - What does a Project Manager does|
-
+| Value Delivery | The primary goal of a project manager is to ensure the project adds measurable value, whether by creating new services/products or enhancing existing ones. | Lesson 4 - What does a Project Manager Do |
 
 
 # Related sources to dive deeper into concepts
