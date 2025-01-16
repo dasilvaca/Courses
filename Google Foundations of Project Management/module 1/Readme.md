@@ -14,7 +14,9 @@ This module provides a comprehensive introduction to project management, focusin
 | Project |  A unique, temporary series of tasks aimed at achieving a specific goal. | Lesson 3 - What is Project Management |
 | Project Manager | Project managers play a vital role in ensuring projects are completed on time, within budget, and with measurable value to their organizations. | Lesson 4 - What does a Project Manager does|
 | Value Delivery | The primary goal of a project manager is to ensure the project adds measurable value, whether by creating new services/products or enhancing existing ones. | Lesson 4 - What does a Project Manager Do |
-
+| Core Skills in Project Management | Planning, organizing, budgeting, task management, time management, leadership, and cost control | Lessons 4 & 5 |
+| Transferable Skills | Everyday experiences like organizing events, managing schedules, or coordinating a move provide foundational project management expertise | Lesson 5 - Trasnferable Project Management skills |
+| Practical Application | These skills can be presented as strengths during job interviews for project management roles | Lesson 5 - Trasnferable Project Management skills |
 
 # Related sources to dive deeper into concepts
 
