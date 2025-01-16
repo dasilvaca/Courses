@@ -4,7 +4,7 @@
 
 **"Is a unique endeavor, and usually includes a set of unique derivables. It's also a temporary pursuit, it has a defined beginning and an end."** Could be interpreted as a series of tasks that **need to be completed** to reach a **desired outcome**.
 
-> <h3>In other words: **"A project is a temporary endeavor undertaken to create a unique product, service, or result."**</h3>
+> <h3>In other words: "A project is a temporary endeavor undertaken to create a unique product, service, or result."</h3>
 
 ## What is Project Management?
 
