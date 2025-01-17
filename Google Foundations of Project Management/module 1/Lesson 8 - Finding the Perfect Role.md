@@ -47,5 +47,6 @@ Searching for a job in the **project management field** can be challenging due t
 ✅ **Job seekers should focus on job descriptions**, not just job titles.  
 ✅ **Reflecting on past experiences** can uncover hidden project management experience.  
 ✅ **Networking** is a powerful tool for job success.  
+✅ **Many past experiences already demonstrate project management skills**—for example, **leading teams, planning events, and achieving measurable goals** can highlight key PM competencies. Emilio’s case showed how emphasizing numbers (students helped, events organized, goals achieved) can make a big difference in proving project management expertise.  
 
 By leveraging these strategies, candidates can **match their project management skills with the best job opportunities available**.
